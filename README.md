@@ -18,8 +18,6 @@
   <li><strong>data/</strong> — raw and cleaned CSV files</li>
   <li><strong>notebook/</strong> — the main Jupyter Notebook (<code>.ipynb</code>)</li>
   <li><strong>requirements.txt</strong> — project dependencies</li>
-  <li><strong>435.md</strong> — description of the sprint assignment</li>
-  <li><strong>.gitignore</strong> — ignored files/folders</li>
   <li><strong>README.md</strong> — project overview (how to run, what’s inside, repo structure)</li>
 </ul>
 
